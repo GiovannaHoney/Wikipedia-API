@@ -155,7 +155,7 @@ Wikipedia
 }
 
 .form {
-  width: 90vw;
+  width: 100%;
   margin: 0 auto;
   padding: 2.5rem;
   border-radius: var(--borderRadius);
